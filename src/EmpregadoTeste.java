@@ -1,9 +1,9 @@
 
 public class EmpregadoTeste {
 	public static void main(String args[]) {
-		Empregado e1, e2, e3;
+/*		Empregado e1, e2, e3;
 		e1 = new Empregado();
-		e2 = new Empregado();
+	    e2 = new Empregado();
 		e3 = new Empregado();
 		
 				
@@ -27,6 +27,6 @@ public class EmpregadoTeste {
 		e3.salario = 4200.0;
 		e3.imprimir();
 		System.out.printf(" Imposto do E3: %.2f\n",e3.calcularImposto());
-		System.out.println();
+		System.out.println(); */
 	}
 }
